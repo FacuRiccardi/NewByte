@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'AbeeZee', serif;
+}
+
+a{
+	color: #000;
+	&:link{
+		text-decoration: none;
+	}
+}

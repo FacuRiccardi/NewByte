@@ -1,0 +1,20 @@
+.header__title{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: white url("../img/cpuhd.jpg") no-repeat fixed center center;
+	background-size: cover;
+	font-family: 'Alice', serif;
+	&__title{
+		border-radius: 20px;
+		background: rgba(66, 244, 134, 0.5);
+		margin: 0px 0;
+		padding: 0 20px;
+	}
+	&__subtitle{
+		border-radius: 10px;
+		background: rgba(66, 244, 134, 0.5);
+		padding: 0 20px;
+	}
+}

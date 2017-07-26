@@ -1,0 +1,11 @@
+.footer {
+  background: white url("../img/fondoverdeazulado.jpg") center center no-repeat;
+  background-size: cover;
+  padding: 40px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .footer__text {
+    color: white;
+    font-weight: 800;
+    text-shadow: 3px 3px 3px black; }

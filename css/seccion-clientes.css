@@ -10,7 +10,5 @@
     margin: 0px 0px 20px 0px; }
   .sectionClientes__slider {
     display: flex; }
-    .sectionClientes__slider__img {
-      padding: 0px 30px; }
-      .sectionClientes__slider__img img {
-        width: 100px; }
+    .sectionClientes__slider__img img {
+      width: 100px; }
